@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+    /*ej comentario*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*practicando tipo*/
+    background-color: green;
+    /*ej fonfo*/
+    text-align: center;
+    /* ej alineacion*/
+}
+
+h2 {
+    color: aqua;
+    font-size: 30px;
+}
+
+p {
+    color: blue;
+    font-size: 18px;
+}
+
+.destacados {
+    font-size: 30px;
+    font-weight: bold; /*conv en negrita*/
+    font-style: italic; /*conv texto en letra italic*/
+}
+#rojo{
+    background-color: brown;
+    width: 300px; /*ancho*/
+    height: 300px; /*alto*/
+    padding: 20px; /* margen de lados*/
+    border: 5px solid black; /*borde*/
+    box-sizing: border-box; /*mantiene el nivel de las cajas*/
+    margin-left: 100px; /*elije el margen por lados*/
+}
+#azul{
+    background-color: yellow;
+    width: 300px; /*ancho*/
+    height: 300px; /*alto*/
+    text-align: center;
+    
+}
